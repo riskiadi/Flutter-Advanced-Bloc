@@ -1,7 +1,7 @@
 # Flutter Advanced Bloc
 
 <p>Flutter advanced bloc with various dependencies, let's learn with a more complex case study.</br>What we do is, make a request to the web service using their API and display its response in this application using BLoC pattern</p>
-<p><b>As for the required dependency</b></p>
+<p><b>As for the required dependencies</b></p>
 
 <table>
   <tr>
